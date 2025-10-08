@@ -477,7 +477,7 @@ function updateClockAndStatus() {
     } else {
         // Restaurant is closed
         statusTitle.textContent = "We're Closed";
-        statusMessage.textContent = "We open at 12:00 PM tomorrow";
+        statusMessage.textContent = "We open at 12:00 PM every day";
         statusLight.classList.add('closed');
         statusSection.classList.add('closed');
         directionsButton.style.display = 'none';
