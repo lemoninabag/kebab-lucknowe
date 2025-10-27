@@ -345,7 +345,7 @@ h1, h2, h3, h4, h5, h6 {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(51, 49, 46, 0.4), rgba(51, 49, 46, 0.4)), 
-                url('bg.jpg') center/cover;
+                url('rest.jpg') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
